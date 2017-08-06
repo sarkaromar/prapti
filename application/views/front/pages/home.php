@@ -25,9 +25,6 @@
                 <li class="animate" data-anim-type="fadeIn" data-anim-delay="100">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>
                 <li class="animate" data-anim-type="fadeIn" data-anim-delay="100">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>
                 <li class="animate" data-anim-type="fadeIn" data-anim-delay="100">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>
-                <li class="animate" data-anim-type="fadeIn" data-anim-delay="100">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>
-                <li class="animate" data-anim-type="fadeIn" data-anim-delay="100">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>
-                <li class="animate" data-anim-type="fadeIn" data-anim-delay="100">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>
             </ul>
         </div>
     </div>

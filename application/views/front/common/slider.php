@@ -3,7 +3,7 @@
     <div class="master-slider ms-skin-light-5" id="masterslider">
         <div class="ms-slide slide-1" data-delay="9">
             <div class="slide-pattern"></div>
-            <img src="<?=base_url()?>assets/js/masterslider/blank.gif" data-src="<?=base_url()?>assets/images/sliders/master/117.jpg" alt=""/>
+            <img src="<?=base_url()?>assets/js/masterslider/blank.gif" data-src="<?=base_url()?>assets/images/sliders/master/1.jpg" alt=""/>
             <h4 class="ms-layer text24 caps"
                 style="left: 700px; top: 275px;"
                 data-type="text"
@@ -37,7 +37,7 @@
         </div><!-- end slide 1 -->
         <div class="ms-slide slide-2" data-delay="9">
             <div class="slide-pattern"></div>
-            <img src="<?=base_url()?>assets/js/masterslider/blank.gif" data-src="<?=base_url()?>assets/images/sliders/master/118.jpg" alt=""/>
+            <img src="<?=base_url()?>assets/js/masterslider/blank.gif" data-src="<?=base_url()?>assets/images/sliders/master/2.jpg" alt=""/>
             <h4 class="ms-layer text24 caps"
                 style="left: 700px; top: 275px;"
                 data-type="text"
@@ -71,7 +71,7 @@
         </div><!-- end slide 2 -->
         <div class="ms-slide slide-3" data-delay="9">
             <div class="slide-pattern"></div>
-            <img src="<?=base_url()?>assets/js/masterslider/blank.gif" data-src="<?=base_url()?>assets/images/sliders/master/119.jpg" alt=""/>
+            <img src="<?=base_url()?>assets/js/masterslider/blank.gif" data-src="<?=base_url()?>assets/images/sliders/master/3.jpg" alt=""/>
             <h4 class="ms-layer text24 caps center"
                 style="top: 275px;"
                 data-type="text"
@@ -95,7 +95,7 @@
         </div><!-- end slide 3 -->
         <div class="ms-slide slide-4" data-delay="9">
             <div class="slide-pattern"></div>
-            <img src="<?=base_url()?>assets/js/masterslider/blank.gif" data-src="<?=base_url()?>assets/images/sliders/master/120.jpg" alt=""/>
+            <img src="<?=base_url()?>assets/js/masterslider/blank.gif" data-src="<?=base_url()?>assets/images/sliders/master/4.jpg" alt=""/>
             <h4 class="ms-layer text24 caps"
                 style="left: 100px; top: 275px;"
                 data-type="text"
