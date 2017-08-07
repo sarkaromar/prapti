@@ -56,7 +56,7 @@
                             Copyright © 2017 - praptitrade.com - All rights reserved.
                         </div>
                         <div class="one_half last animate" data-anim-type="fadeInLeft" data-anim-delay="200">
-                            <a href="#">Privacy Policy</a> | Developed by <a href="#">CloudNextBD.Com</a>
+                            <a href="#">Privacy Policy</a> | Developed by <a href="http://www.cloudnextbd.com/" target="_blank">CloudNextBD.Com</a>
                         </div>
                     </div>
                 </div><!-- end copyright info -->

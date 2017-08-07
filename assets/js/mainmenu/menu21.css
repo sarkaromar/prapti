@@ -318,11 +318,12 @@ margin-top: 104px;
     min-width: 200px;
 }
 .dropdown-menu>li>a {
-    padding: 9px 20px;
-	font-size:13px;
-	color:#999;
+    padding: 10px 20px;
+    font-size: 13px;
+    color: #000;
     border-bottom: 1px solid #eee;
-	transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    background: #f7ca18;
 }
 .dropdown-menu>li>a:hover {
     border-bottom: 1px solid #eee;
