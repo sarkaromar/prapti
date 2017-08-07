@@ -4,7 +4,7 @@
     <div class="clearfix margin_top3"></div>
     <div class="container">
         <div class="one_half txt-center"> 
-            <img src="<?=base_url()?>assets/images/11.jpg" alt="" width="100%" />
+            <img src="<?=base_url()?>assets/images/w3.jpg" alt="" width="100%" />
         </div>
         <div class="one_half last">
             <h2><?=$title?></h2>

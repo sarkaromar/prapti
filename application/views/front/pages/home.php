@@ -8,7 +8,7 @@
             <p>Founder and Chairman of this Prapti Trade Int.</p>
         </div>
         <div class="two_third last">
-            <h2>Prapti Trade International</h2>
+            <h2 class="name-title">Prapti Trade International</h2>
             <p class="txt-left">Prapti Trade International a oprietcrship construction of Md. Obaydul
                 Haque, Dhaka, Bangladesh has started his business career as a first class government
                 contractor in 2000. This firm has diversified by developing construction expertise in 6

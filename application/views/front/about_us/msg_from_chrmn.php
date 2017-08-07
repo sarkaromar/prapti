@@ -3,8 +3,8 @@
 <div class="featured">
     <div class="clearfix margin_top3"></div>
     <div class="container">
-        <div class="one_half txt-center"> 
-            <img src="<?=base_url()?>assets/images/11.jpg" alt="" width="100%" />
+        <div class="one_half txt-center"> <img src="<?=base_url()?>assets/images/man.png" alt="" width="350" />
+
         </div>
         <div class="one_half last">
             <h2><?=$title?></h2>
@@ -19,6 +19,9 @@
                 successful construction contractor.
                 Therefore, this firrn can welcome projects of all sizes from all corners and is
                 committed to delivery highest level of value and services to our clients.</p>
+                <br>
+                <h2 class="">Md. Obaydul Haque</h2>
+            <p class="txt-left">Founder and Chairman of this Prapti Trade Int.</p>
         </div>
     </div>
     <div class="clearfix margin_bottom6"></div>
