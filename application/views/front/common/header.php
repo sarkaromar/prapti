@@ -81,7 +81,7 @@
                     <div class="logo3"><a href="#" id="logo21">Prapti Trade</a></div>
                     <!-- Navigation Menu -->
                     <div class="menu_main_full three">
-                        <div class="top_nav3"> <i class="fa fa-phone"></i> 01713927837 &nbsp;&nbsp; <a href="mailto:info@websitename.com"><i class="fa fa-envelope"></i> info@praptitrade.com</a> &nbsp;&nbsp;
+                        <div class="top_nav3"> <i class="fa fa-phone"></i> +880 1713 927837 &nbsp;&nbsp; <a href="mailto:info@websitename.com"><i class="fa fa-envelope"></i> info@praptitrade.com</a> &nbsp;&nbsp;
                             <a href="#"><i class="fa fa-facebook"></i></a>
                             <a href="#"><i class="fa fa-twitter"></i></a>
                             <a href="#"><i class="fa fa-google-plus"></i></a>
@@ -109,13 +109,13 @@
                                                         $title == 'Client'
                                                     ) echo 'active'?>" >About Us</a>
                                             <ul class="dropdown-menu" role="menu">
-                                                <li><a href="<?=site_url('vision')?>">Vision</a></li>
-                                                <li><a href="<?=site_url('mission')?>">Mission</a></li>
-                                                <li><a href="<?=site_url('message_from_chairman')?>">Message from chairman</a></li>  
-                                                <li><a href="<?=site_url('core_values')?>">Core values</a></li>
-                                                <li><a href="<?=site_url('corporate_goal')?>">Corporate Goal</a></li>
-                                                <li><a href="<?=site_url('organogram')?>">Organogram</a></li> 
-                                                <li><a href="<?=site_url('client')?>">Client</a></li>  						
+                                                <li><a href="<?=site_url('index.php/vision')?>">Vision</a></li>
+                                                <li><a href="<?=site_url('index.php/mission')?>">Mission</a></li>
+                                                <li><a href="<?=site_url('index.php/message_from_chairman')?>">Message from chairman</a></li>  
+                                                <li><a href="<?=site_url('index.php/core_values')?>">Core values</a></li>
+                                                <li><a href="<?=site_url('index.php/corporate_goal')?>">Corporate Goal</a></li>
+                                                <li><a href="<?=site_url('index.php/organogram')?>">Organogram</a></li> 
+                                                <li><a href="<?=site_url('index.php/client')?>">Client</a></li>  						
                                             </ul>
                                         </li>
                                         <li class="dropdown"><a href="#" class="dropdown-toggle
@@ -124,8 +124,8 @@
                                                         $title == 'Completed project'
                                                     ) echo 'active'?>">Projects</a>
                                             <ul class="dropdown-menu" role="menu">
-                                                <li><a href="<?=site_url('on_going_project')?>">On-going Project</a></li>
-                                                <li><a href="<?=site_url('completed_project')?>">Completed Project</a></li>
+                                                <li><a href="<?=site_url('index.php/on_going_project')?>">On-going Project</a></li>
+                                                <li><a href="<?=site_url('index.php/completed_project')?>">Completed Project</a></li>
                                             </ul>
                                         </li>
                                         <li class="dropdown"><a href="#" class="dropdown-toggle
@@ -137,27 +137,27 @@
                                                         $title == 'Civil'  
                                                     ) echo 'active'?>">What We Do</a>
                                             <ul class="dropdown-menu" role="menu">
-                                                <li><a href="<?=site_url('roads_and_highway')?>">Roads & Highway</a></li>
-                                                <li><a href="<?=site_url('bridge')?>">Bridge</a></li>
-                                                <li><a href="<?=site_url('material_supply')?>">Material Supply</a></li>
-                                                <li><a href="<?=site_url('optical_fiber')?>">Optical Fiber</a></li>
-                                                <li><a href="<?=site_url('civil')?>">Civil</a></li>  
+                                                <li><a href="<?=site_url('index.php/roads_and_highway')?>">Roads & Highway</a></li>
+                                                <li><a href="<?=site_url('index.php/bridge')?>">Bridge</a></li>
+                                                <li><a href="<?=site_url('index.php/material_supply')?>">Material Supply</a></li>
+                                                <li><a href="<?=site_url('index.php/optical_fiber')?>">Optical Fiber</a></li>
+                                                <li><a href="<?=site_url('index.php/civil')?>">Civil</a></li>  
                                             </ul>
                                         </li>
-                                        <li><a href="<?=site_url('equipments')?>" class="<?php if ( $title == 'Equipments') echo 'active' ; ?>">Equipments</a></li>
-                                        <li><a href="<?=site_url('careers')?>" class="<?php if ( $title == 'Careers') echo 'active' ; ?>">Careers</a></li>
+                                        <li><a href="<?=site_url('index.php/equipments')?>" class="<?php if ( $title == 'Equipments') echo 'active' ; ?>">Equipments</a></li>
+                                        <li><a href="<?=site_url('index.php/careers')?>" class="<?php if ( $title == 'Careers') echo 'active' ; ?>">Careers</a></li>
                                         <li class="dropdown"><a href="#" class="dropdown-toggle
                                             <?php if (
                                                         $title == 'On going project gallery' ||  
                                                         $title == 'Completed project gallery'
                                                     ) echo 'active'?>">Gallery</a>
                                             <ul class="dropdown-menu" role="menu">
-                                                <li><a href="<?=site_url('on_going_project_gallery')?>">On-going Project</a></li>
-                                                <li><a href="<?=site_url('completed_project_gallery')?>">Completed Project</a></li>
+                                                <li><a href="<?=site_url('index.php/on_going_project_gallery')?>">On-going Project</a></li>
+                                                <li><a href="<?=site_url('index.php/completed_project_gallery')?>">Completed Project</a></li>
 
                                             </ul>
                                         </li>
-                                        <li><a href="<?=site_url('contact')?>" class="<?php if ( $title == 'Contact us') echo 'active' ; ?>">Contact</a></li>
+                                        <li><a href="<?=site_url('index.php/contact')?>" class="<?php if ( $title == 'Contact us') echo 'active' ; ?>">Contact</a></li>
                                     </ul>
                                 </nav>
                             </div>

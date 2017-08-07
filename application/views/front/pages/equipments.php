@@ -1,8 +1,6 @@
-<div class="slidermar12"></div>
 <div class="clearfix margin_top6"></div>
 <div class="featured">
     <div class="container tex-center">
-        <h2 align="center">What We Do</h2>
         <div class="concern animate" data-anim-type="fadeIn" data-anim-delay="100">
             <img src="<?=base_url()?>assets/images/w4.jpg" alt="" class="rimg" />
             <h4 class="roboto dark caps margin_top2"><strong>Roads & Highway</strong></h4>

@@ -2,14 +2,14 @@
 <div class="featured">
     <div class="clearfix margin_top3"></div>
     <div class="container">
-        <div class="one_half txt-center"> 
-            <img src="<?=base_url()?>assets/images/11.jpg" alt="" width="100%" />
-            <h2>Md. Obaydul Haque</h2>
+        <div class="one_third txt-center"> 
+            <img src="<?=base_url()?>assets/images/man.png" alt="" width="100%" />
+            <h2 class="name-title">Md. Obaydul Haque</h2>
             <p>Founder and Chairman of this Prapti Trade Int.</p>
         </div>
-        <div class="one_half last">
-            <h2>About Us</h2>
-            <p class="txt-left">F"l,is. Prapti Trade internationai a p;'oprietcrship construction fii"m of Md. Obaydul
+        <div class="two_third last">
+            <h2>Prapti Trade International</h2>
+            <p class="txt-left">Prapti Trade International a oprietcrship construction of Md. Obaydul
                 Haque, Dhaka, Bangladesh has started his business career as a first class government
                 contractor in 2000. This firm has diversified by developing construction expertise in 6
                 wicie range of ai-eas. We are both actlve in governmerit work and in ttre private
@@ -30,10 +30,66 @@
     </div>
 </div><!-- end featured section 123 -->
 
+<div class="clearfix margin_top12"></div>
+<div class="featured_section0101">
+    <div class="container">
+        <span class="stcode_title13">Why Choose Us</span>
+        <div class="clearfix margin_top9"></div>
+        <div class="one_third animate" data-anim-type="fadeIn" data-anim-delay="100">
+            <i class="fa fa-thumbs-o-up"></i>
+            <h4 class="roboto dark caps"><strong>We work with you</strong></h4>
+            <p>Prapti Trade International which don't look even slightly believable If you are use a passage of you need to be sure.</p>
+        </div><!-- end section -->
+        <div class="one_third animate" data-anim-type="fadeIn" data-anim-delay="200">
+            <i class="fa fa-trophy"></i>
+            <h4 class="roboto dark caps"><strong>45 years of experience</strong></h4>
+            <p>Prapti Trade International which don't look even slightly believable If you are use a passage of you need to be sure.</p>
+        </div><!-- end section -->
+        <div class="one_third last animate" data-anim-type="fadeIn" data-anim-delay="300">
+            <i class="fa fa-subway"></i>
+            <h4 class="roboto dark caps"><strong>High Performance</strong></h4>
+            <p>Prapti Trade International which don't look even slightly believable If you are use a passage of you need to be sure.</p>
+        </div><!-- end section -->
+        <div class="clearfix margin_top6"></div>
+        <div class="one_third animate" data-anim-type="fadeIn" data-anim-delay="400">
+            <i class="fa fa-road"></i>
+            <h4 class="roboto dark caps"><strong>Construct Management</strong></h4>
+            <p>Prapti Trade International which don't look even slightly believable If you are use a passage of you need to be sure.</p>
+        </div><!-- end section -->
+        <div class="one_third animate" data-anim-type="fadeIn" data-anim-delay="500">
+            <i class="fa fa-tablet"></i>
+            <h4 class="roboto dark caps"><strong>Multimedia production</strong></h4>
+            <p>Prapti Trade International which don't look even slightly believable If you are use a passage of you need to be sure.</p>
+        </div><!-- end section -->
+        <div class="one_third last animate" data-anim-type="fadeIn" data-anim-delay="600">
+            <i class="fa fa-building-o"></i>
+            <h4 class="roboto dark caps"><strong>Subcontracting optns</strong></h4>
+            <p>Prapti Trade International which don't look even slightly believable If you are use a passage of you need to be sure.</p>
+        </div><!-- end section -->
+        <div class="clearfix margin_top6"></div>
+        <div class="one_third animate" data-anim-type="fadeIn" data-anim-delay="700">
+            <i class="fa fa-book"></i>
+            <h4 class="roboto dark caps"><strong>Cooperative Education</strong></h4>
+            <p>Prapti Trade International which don't look even slightly believable If you are use a passage of you need to be sure.</p>
+        </div><!-- end section -->
+        <div class="one_third animate" data-anim-type="fadeIn" data-anim-delay="800">
+            <i class="fa fa-user"></i>
+            <h4 class="roboto dark caps"><strong>Management at risk</strong></h4>
+            <p>Prapti Trade International which don't look even slightly believable If you are use a passage of you need to be sure.</p>
+        </div><!-- end section -->
+        <div class="one_third last animate" data-anim-type="fadeIn" data-anim-delay="900">
+            <i class="fa fa-star"></i>
+            <h4 class="roboto dark caps"><strong>Best place to work</strong></h4>
+            <p>Prapti Trade International which don't look even slightly believable If you are use a passage of you need to be sure.</p>
+        </div><!-- end section -->
+    </div>
+</div><!-- end featured section 125 -->
+
 <div class="clearfix margin_top6"></div>
-<div class="featured">
-    <div class="container tex-center">
-        <h2 align="center">What We Do</h2>
+<div class="featured_section125">
+    <div class="container">
+    <span class="stcode_title13">What We Do</span>
+        <div class="clearfix margin_top5"></div>
         <div class="concern animate" data-anim-type="fadeIn" data-anim-delay="100">
             <img src="<?=base_url()?>assets/images/w4.jpg" alt="" class="rimg" />
             <h4 class="roboto dark caps margin_top2"><strong>Roads & Highway</strong></h4>
@@ -65,8 +121,9 @@
 
 <div class="clearfix margin_top12"></div>
 <div class="featured_section124">
+    <div class="container">
     <span class="stcode_title13">Recent Projects</span>
-    <div class="margin_top9"></div>
+    <div class="margin_top5"></div>
     <div class="clearfix"></div>
         <div class="repro">
             <div class="one_third">
@@ -156,64 +213,9 @@
                 </div>
             </div>
         </div><!-- end a slide section -->   
+    </div>
 </div><!-- end featured section 124 -->
 
-<div class="clearfix margin_top12"></div>
-<div class="featured_section125">
-    <div class="container">
-        <span class="stcode_title13">Why Choose Us</span>
-        <div class="clearfix margin_top9"></div>
-        <div class="one_third animate" data-anim-type="fadeIn" data-anim-delay="100">
-            <i class="fa fa-thumbs-o-up"></i>
-            <h4 class="roboto dark caps"><strong>We work with you</strong></h4>
-            <p>Prapti Trade International which don't look even slightly believable If you are use a passage of you need to be sure.</p>
-        </div><!-- end section -->
-        <div class="one_third animate" data-anim-type="fadeIn" data-anim-delay="200">
-            <i class="fa fa-trophy"></i>
-            <h4 class="roboto dark caps"><strong>45 years of experience</strong></h4>
-            <p>Prapti Trade International which don't look even slightly believable If you are use a passage of you need to be sure.</p>
-        </div><!-- end section -->
-        <div class="one_third last animate" data-anim-type="fadeIn" data-anim-delay="300">
-            <i class="fa fa-subway"></i>
-            <h4 class="roboto dark caps"><strong>High Performance</strong></h4>
-            <p>Prapti Trade International which don't look even slightly believable If you are use a passage of you need to be sure.</p>
-        </div><!-- end section -->
-        <div class="clearfix margin_top6"></div>
-        <div class="one_third animate" data-anim-type="fadeIn" data-anim-delay="400">
-            <i class="fa fa-road"></i>
-            <h4 class="roboto dark caps"><strong>Construct Management</strong></h4>
-            <p>Prapti Trade International which don't look even slightly believable If you are use a passage of you need to be sure.</p>
-        </div><!-- end section -->
-        <div class="one_third animate" data-anim-type="fadeIn" data-anim-delay="500">
-            <i class="fa fa-tablet"></i>
-            <h4 class="roboto dark caps"><strong>Multimedia production</strong></h4>
-            <p>Prapti Trade International which don't look even slightly believable If you are use a passage of you need to be sure.</p>
-        </div><!-- end section -->
-        <div class="one_third last animate" data-anim-type="fadeIn" data-anim-delay="600">
-            <i class="fa fa-building-o"></i>
-            <h4 class="roboto dark caps"><strong>Subcontracting optns</strong></h4>
-            <p>Prapti Trade International which don't look even slightly believable If you are use a passage of you need to be sure.</p>
-        </div><!-- end section -->
-        <div class="clearfix margin_top6"></div>
-        <div class="one_third animate" data-anim-type="fadeIn" data-anim-delay="700">
-            <i class="fa fa-book"></i>
-            <h4 class="roboto dark caps"><strong>Cooperative Education</strong></h4>
-            <p>Prapti Trade International which don't look even slightly believable If you are use a passage of you need to be sure.</p>
-        </div><!-- end section -->
-        <div class="one_third animate" data-anim-type="fadeIn" data-anim-delay="800">
-            <i class="fa fa-user"></i>
-            <h4 class="roboto dark caps"><strong>Management at risk</strong></h4>
-            <p>Prapti Trade International which don't look even slightly believable If you are use a passage of you need to be sure.</p>
-        </div><!-- end section -->
-        <div class="one_third last animate" data-anim-type="fadeIn" data-anim-delay="900">
-            <i class="fa fa-star"></i>
-            <h4 class="roboto dark caps"><strong>Best place to work</strong></h4>
-            <p>Prapti Trade International which don't look even slightly believable If you are use a passage of you need to be sure.</p>
-        </div><!-- end section -->
-    </div>
-</div><!-- end featured section 125 -->
-
-<div class="clearfix margin_top12"></div>
 <div class="featured_section126">
     <div class="container">
         <span class="stcode_title13">Meet Our Team</span>
@@ -249,51 +251,6 @@
     </div>
 </div><!-- end featured section 126 -->
 
-<div class="clearfix margin_top12"></div>
-<div class="featured_section127">
-    <div class="container">
-        <span class="stcode_title13">Recent News</span>
-        <div class="clearfix margin_top9"></div>
-        <div class="one_third animate" data-anim-type="fadeIn" data-anim-delay="100">
-            <img src="<?=base_url()?>assets/images/site-img208.jpg" alt="" />
-            <a href="#" class="date">20/04/2015</a>
-            <p class="clearfix"></p>
-            <p class="margin_top3"></p>
-            <h5 class="roboto dark caps">Many desktop publishing packages and web page editors now use</h5>
-            <p>Lorem Ipsum as their default model text, and a search
-                for 'lorem ipsum' will uncover many web sites still in
-                their infancy versions have over the years.</p>
-            <p class="margin_top4"></p>
-            <a href="#" class="button thone">Read More</a>
-        </div><!-- end section -->
-        <div class="one_third animate" data-anim-type="fadeIn" data-anim-delay="150">
-            <img src="<?=base_url()?>assets/images/site-img209.jpg" alt="" />
-            <a href="#" class="date">19/04/2015</a>
-            <p class="clearfix"></p>
-            <p class="margin_top3"></p>
-            <h5 class="roboto dark caps">Web sites still in their fancy arious versions have over the years</h5>
-            <p>Lorem Ipsum as their default model text, and a search
-                for 'lorem ipsum' will uncover many web sites still in
-                their infancy versions have over the years.</p>
-            <p class="margin_top4"></p>
-            <a href="#" class="button thone">Read More</a>
-        </div><!-- end section -->
-        <div class="one_third last animate" data-anim-type="fadeIn" data-anim-delay="200">
-            <img src="<?=base_url()?>assets/images/site-img210.jpg" alt="" />
-            <a href="#" class="date">18/04/2015</a>
-            <p class="clearfix"></p>
-            <p class="margin_top3"></p>
-            <h5 class="roboto dark caps">Printer took galley of type scrambled itto make a type book</h5>
-            <p>Lorem Ipsum as their default model text, and a search
-                for 'lorem ipsum' will uncover many web sites still in
-                their infancy versions have over the years.</p>
-            <p class="margin_top4"></p>
-            <a href="#" class="button thone">Read More</a>
-        </div><!-- end section -->
-    </div>
-</div><!-- end featured section 127 -->
-
-<div class="clearfix margin_top12"></div>
 <div class="parallax_section1 stwo">
     <div class="container">
         <div class="flexslider carousel">
@@ -318,6 +275,10 @@
                             <img src="<?=base_url()?>assets/images/bd_logo.png" alt="" />
                             <h5 style="color: #181818">Austin Lisandro</h5>
                         </li>
+                        <li  style="display: inline-block; margin-right: 20px">
+                            <img src="<?=base_url()?>assets/images/bd_logo.png" alt="" />
+                            <h5 style="color: #181818">Austin Lisandro</h5>
+                        </li>
                     </ul>
                     
                </li><!-- end slide -->
@@ -341,6 +302,10 @@
                             <img src="<?=base_url()?>assets/images/bd_logo.png" alt="" />
                             <h5 style="color: #181818">Austin Lisandro</h5>
                         </li>
+                        <li  style="display: inline-block; margin-right: 20px">
+                            <img src="<?=base_url()?>assets/images/bd_logo.png" alt="" />
+                            <h5 style="color: #181818">Austin Lisandro</h5>
+                        </li>
                     </ul>
                     
                </li><!-- end slide -->
@@ -357,6 +322,10 @@
                             <h5 style="color: #181818">Austin Lisandro</h5>
                         </li>
                         <li style="display: inline-block; margin-right: 30px">
+                            <img src="<?=base_url()?>assets/images/bd_logo.png" alt="" />
+                            <h5 style="color: #181818">Austin Lisandro</h5>
+                        </li>
+                        <li  style="display: inline-block; margin-right: 20px">
                             <img src="<?=base_url()?>assets/images/bd_logo.png" alt="" />
                             <h5 style="color: #181818">Austin Lisandro</h5>
                         </li>

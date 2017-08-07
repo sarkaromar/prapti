@@ -1,6 +1,3 @@
-<div class="slidermar12"></div>
-    
-    <div class="slidermar12"></div>
     <div class="featured_section128">
         <div class="container">
             <div class="col-md-6">
@@ -31,7 +28,7 @@
                     </div>
                     <div class="form-group">
                         <div class="col-sm-offset-2 col-sm-10">
-                            <button type="submit" class="btn btn-primary">Send Message</button>
+                            <button type="submit" class="btn btn-warning">Send Message</button>
                         </div>
                     </div>
                 <?=form_close()?>
@@ -66,7 +63,7 @@
     <div class="clearfix"></div>
     <div class="featured_section67 stwo">
         <div class="fgmapfull2">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3652.0176378732594!2d90.39087361456167!3d23.74675043459118!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b8bd9229dd1b%3A0xa8db185ff232d183!2sPlanner&#39;s+Tower%2C+13%2FA%2C+Bipanon+C%2FA%2C+Bir+Uttam+C.+R.+Datta+Road+Mymensingh+Ln%2C+Dhaka!5e0!3m2!1sen!2sbd!4v1495364712617" frameborder="0" style="border:0"></iframe>
+            <iframe class="maps" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3652.0176378732594!2d90.39087361456167!3d23.74675043459118!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b8bd9229dd1b%3A0xa8db185ff232d183!2sPlanner&#39;s+Tower%2C+13%2FA%2C+Bipanon+C%2FA%2C+Bir+Uttam+C.+R.+Datta+Road+Mymensingh+Ln%2C+Dhaka!5e0!3m2!1sen!2sbd!4v1495364712617" frameborder="0" style="border:0"></iframe>
         </div>
     </div><!-- end featured section 67 -->
     

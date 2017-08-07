@@ -1,40 +1,35 @@
             <div class="clearfix"></div>
             <footer class="footer6 stwo">
                 <div class="container">
-                    <div class="column1 animate" data-anim-type="fadeIn" data-anim-delay="100">
-                        <h3>About Us</h3>
-                        <p>Lorem Ipsum is simply dummy text the printing and typesetting industry orem Ipsum has been the industry
-                            standard dummy text ever since the when an unknown printer took galley of type and scrambled it to make.</p>
+                    
+                    <div class="column2 animate" data-anim-type="fadeIn" data-anim-delay="100">
+                        <h3>Prapti Trade International</h3>
+                        <p>
+                            Prapti Trade International a oprietcrship construction of Md. Obaydul Haque, Dhaka, Bangladesh has started his business career as a first class government contractor in 2000. This firm has diversified by developing construction expertise in 6 wicie range of ai-eas. We are both actlve in governmerit work and in ttre private sectors...
+                        </p>
                     </div><!-- end section -->
-                    <div class="column2 animate" data-anim-type="fadeIn" data-anim-delay="150">
-                        <h3>More Services</h3>
+                    <div class="column1 animate" data-anim-type="fadeIn" data-anim-delay="150">
+                        <h3>Company</h3>
                         <ul>
-                            <li><a href="#">Our History</a></li>
-                            <li><a href="#">Professionals</a></li>
-                            <li><a href="#">Our Development</a></li>
-                            <li><a href="#">Partnership With Us</a></li>
-                            <li><a href="#">Company Carreer</a></li>
-                            <li><a href="#">New Technology</a></li>
-                            <li><a href="#">Client Testimonials</a></li>
-                        </ul>
-                        <ul>
-                            <li><a href="#">Our History</a></li>
-                            <li><a href="#">Professionals</a></li>
-                            <li><a href="#">Our Development</a></li>
-                            <li><a href="#">Partnership With Us</a></li>
-                            <li><a href="#">Company Carreer</a></li>
-                            <li><a href="#">New Technology</a></li>
-                            <li><a href="#">Client Testimonials</a></li>
+                            <li><a href="<?=site_url('index.php/vision')?>">Vision</a></li>
+                            <li><a href="<?=site_url('index.php/mission')?>">Mission</a></li>
+                            <li><a href="<?=site_url('index.php/message_from_chairman')?>">Message from chairman</a></li>  
+                            <li><a href="<?=site_url('index.php/core_values')?>">Core values</a></li>
+                            <li><a href="<?=site_url('index.php/corporate_goal')?>">Corporate Goal</a></li>
+                            <li><a href="<?=site_url('index.php/organogram')?>">Organogram</a></li> 
+                            <li><a href="<?=site_url('index.php/client')?>">Client</a></li>  						
                         </ul>
                     </div><!-- end section -->
-                    <div class="column1 animate" data-anim-type="fadeIn" data-anim-delay="200">
-                        <h3>Our Clients</h3>
-                        <ul class="clogos">
-                            <li><img src="<?=base_url()?>assets/images/peop-img8.jpg" alt="" /></li>
-                            <li><img src="<?=base_url()?>assets/images/peop-img8.jpg" alt="" /></li>
-                            <li><img src="<?=base_url()?>assets/images/peop-img8.jpg" alt="" /></li>
-                            <li><img src="<?=base_url()?>assets/images/peop-img8.jpg" alt="" /></li>
-                        </ul>
+                    <div class="column1 animate qik" data-anim-type="fadeIn" data-anim-delay="200">
+                        <h3>Quick Contact</h3>
+                        <address>
+                            <b>PRAPTI TRADE</b>
+                            <p>
+                            Level - 15, Planners Tower, Dhka - 1206 <br>
+                            Telephone: 01713927837 <br>
+                            E-mail: mail@praptitrade.com
+                            </p>
+                        </address>
                     </div><!-- end section -->
                     <div class="column1 last animate" data-anim-type="fadeIn" data-anim-delay="250">
                         <h3>Get Connected</h3>
@@ -58,10 +53,10 @@
                     <div class="container">
                         <div class="clearfix divider_dashed10"></div>
                         <div class="one_half animate" data-anim-type="fadeInRight" data-anim-delay="200">
-                            Copyright © 2015 LinStar.com. All rights reserved.
+                            Copyright © 2017 - praptitrade.com - All rights reserved.
                         </div>
                         <div class="one_half last animate" data-anim-type="fadeInLeft" data-anim-delay="200">
-                            <a href="#">Terms of Use</a> | <a href="#">Privacy Policy</a>
+                            <a href="#">Privacy Policy</a> | Developed by <a href="#">CloudNextBD.Com</a>
                         </div>
                     </div>
                 </div><!-- end copyright info -->
