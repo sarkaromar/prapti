@@ -78,7 +78,7 @@
             <header class="header">
                 <div class="container_fhstyle2">
                     <!-- Logo -->
-                    <div class="logo3"><a href="#" id="logo21">Prapti Trade</a></div>
+                    <div class="logo3"><a href="<?=base_url()?>" id="logo21">Prapti Trade</a></div>
                     <!-- Navigation Menu -->
                     <div class="menu_main_full three">
                         <div class="top_nav3"> <i class="fa fa-phone"></i> +880 1713 927837 &nbsp;&nbsp; <a href="mailto:info@websitename.com"><i class="fa fa-envelope"></i> info@praptitrade.com</a> &nbsp;&nbsp;
